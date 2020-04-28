@@ -2,6 +2,7 @@
 
 Dashboard realizzata usando la libreria Dash Plotly 
 
+* Il materiale del corso di data visualization si trova nel repositorio [data-visualization](https://github.com/visiont3lab/data-visualization)
 * Cliccare questo link per provare e modicare la dashboard 
 [![Run on Repl.it](https://repl.it/badge/github/visiont3lab/covid19-dash-plotly)](https://repl.it/github/visiont3lab/data-visualization-final-project)
 * [plotly-dash-boilerplate](https://github.com/visiont3lab/plotly-dash-boilerplate) è un boilerplate project disegnato per iniziare a programmare usando plotly e dash
@@ -38,21 +39,23 @@ Dati della protezione civile disponibili qui:
      
 ## File Importanti
 
-* Applicazione
+* **Applicazione**
     * **assets** : cartella che contiene i file di css (layout) utilizzati per sviluppare la dashboard
     * **requirements.txt** : dipendenze python necessarie per la nostra dashboard (specifiche per il **pip** package manager)
     * **app.py** : applicazione finale 
-* **replit**
+* [**replit**](https://repl.it/)
     * **.replit** : file associato al **RUN** button in replit
     * **pyproject.toml** :  dipendenze python necessarie per la nostra dashboard (specifiche per il **poetry** package manager che utilizza replit)
     * **runtime.txt** : specifica la versione di python da utilizzare in replit
-* **Heroku**
+* [**Heroku**](https://www.heroku.com/)
     * **Procfile** : file necessario a heroku per capire quale file python utilizzare. Nel nostro caso **app.py**
 
 ## References
 
 * [dash-heroku-template](https://github.com/plotly/dash-heroku-template)
-* [heroku cli](https://devcenter.heroku.com/articles/heroku-cli)
-* [heroku cli Logs](https://devcenter.heroku.com/articles/logging#view-logs)
+* [plotly figure reference](https://plotly.com/python/reference/)
+* [dash data_table](https://dash.plotly.com/datatable)
+* [Maps Plotly](https://plotly.com/python/maps/), [Mapbox Map Layers](https://plotly.com/python/mapbox-layers/)
+* [heroku cli](https://devcenter.heroku.com/articles/heroku-cli), [heroku cli Logs](https://devcenter.heroku.com/articles/logging#view-logs)
 * [Color Palette Selector Adobe online ](https://coolors.co/1c5253-388659-00ce7f-33658a-86bbd8)
 * [How to build an app with Dash Plotly](https://www.statworx.com/de/blog/how-to-build-a-dashboard-in-python-plotly-dash-step-by-step-tutorial/)
