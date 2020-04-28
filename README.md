@@ -53,6 +53,7 @@ Dati della protezione civile disponibili qui:
 
 ## References
 
+* [dash components e tutorial](https://dash.plotly.com/)
 * [dash-heroku-template](https://github.com/plotly/dash-heroku-template)
 * [plotly figure reference](https://plotly.com/python/reference/)
 * [dash data_table](https://dash.plotly.com/datatable)
