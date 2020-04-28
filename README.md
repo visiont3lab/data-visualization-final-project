@@ -1,7 +1,7 @@
 # Data visualization Course Final Project
 
 Dashboard realizzata usando la libreria Dash Plotly 
-* [Heroku Websiste STATUS:WORKING](https://data-visualization-final-proje.herokuapp.com/)
+* [Heroku Websiste STATUS:WORKINGOK](https://data-visualization-final-proje.herokuapp.com/)
 * [Github Link page (Readme.md)](https://visiont3lab.github.io/data-visualization-final-project/)
 * Il materiale del corso di data visualization si trova nel repositorio [data-visualization](https://github.com/visiont3lab/data-visualization)
 * Cliccare questo link per provare e modicare la dashboard 
