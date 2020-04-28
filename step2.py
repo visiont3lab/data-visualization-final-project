@@ -226,7 +226,7 @@ app.layout = html.Div([
                 html.Div([
                     dcc.Markdown('''
                     ### Covid19 Dashboard Italia
-                    ##### Progetto di fine corso [data-visualization](https://github.com/visiont3lab/covid19-dash-plotly)
+                    ##### Progetto di fine corso [data-visualization](https://github.com/visiont3lab/data-visualization)
                     Dati forniti dalla [Protezione Civile](https://github.com/pcm-dpc/COVID-19")
                     '''),
                     html.P("Ultimo aggiornamento: " + ultima_data),
