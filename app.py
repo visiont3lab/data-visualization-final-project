@@ -128,8 +128,8 @@ def fig_nuovi_positivi(df):
     for nome_key_to_plot in lista_keys_to_plot:
         my_dict[nome_key_to_plot] = list(df[nome_key_to_plot])
 
-        xx = my_dict["data"][-1:]
-        yy = my_dict[nome_key_to_plot][-1:]
+        xx = my_dict["data"]
+        yy = my_dict[nome_key_to_plot]
 
         fig.add_trace(go.Scatter(
                 x = xx,
