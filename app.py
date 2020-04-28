@@ -366,7 +366,7 @@ def fig_mappa(df,data=None):
     fig.update_layout(
         hovermode='closest',
         mapbox=dict(
-            accesstoken=token,
+            #accesstoken=token,
             bearing=0,
             center=go.layout.mapbox.Center(
                 lat=41,  # ROme
